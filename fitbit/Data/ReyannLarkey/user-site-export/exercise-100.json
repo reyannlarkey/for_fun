@@ -1,0 +1,5632 @@
+[{
+  "logId" : 15525704784,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 4,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "calories" : 115,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 1623,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "07/14/18 02:02:41",
+  "startTime" : "07/14/18 01:32:13",
+  "originalStartTime" : "07/14/18 01:32:13",
+  "originalDuration" : 1536000,
+  "elevationGain" : 60.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15548522131,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 27,
+    "name" : "fairly"
+  },{
+    "minutes" : 72,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 121,
+  "calories" : 648,
+  "duration" : 6230000,
+  "activeDuration" : 6230000,
+  "steps" : 8985,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 2
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 100
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 2
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/15/18 19:06:30",
+  "startTime" : "07/15/18 16:49:34",
+  "originalStartTime" : "07/15/18 16:49:34",
+  "originalDuration" : 6230000,
+  "elevationGain" : 677.001313,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15578800886,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 29,
+    "name" : "fairly"
+  },{
+    "minutes" : 19,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 92,
+  "calories" : 279,
+  "duration" : 3021000,
+  "activeDuration" : 3021000,
+  "steps" : 5273,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 36
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 14
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/16/18 22:15:13",
+  "startTime" : "07/16/18 21:11:33",
+  "originalStartTime" : "07/16/18 21:11:33",
+  "originalDuration" : 3021000,
+  "elevationGain" : 90.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15581866337,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 111,
+  "calories" : 101,
+  "duration" : 1127000,
+  "activeDuration" : 1127000,
+  "steps" : 1413,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 19
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/17/18 01:00:44",
+  "startTime" : "07/17/18 00:18:25",
+  "originalStartTime" : "07/17/18 00:18:25",
+  "originalDuration" : 1127000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15606034756,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 109,
+  "calories" : 106,
+  "duration" : 1229000,
+  "activeDuration" : 1229000,
+  "steps" : 1438,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 1
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 20
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/18/18 01:10:56",
+  "startTime" : "07/18/18 00:41:54",
+  "originalStartTime" : "07/18/18 00:41:54",
+  "originalDuration" : 1229000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15627906397,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 28,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 110,
+  "calories" : 193,
+  "duration" : 2253000,
+  "activeDuration" : 2253000,
+  "steps" : 2892,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 2
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 35
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/19/18 02:25:17",
+  "startTime" : "07/19/18 01:18:11",
+  "originalStartTime" : "07/19/18 01:18:11",
+  "originalDuration" : 2253000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15651566796,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 108,
+  "calories" : 107,
+  "duration" : 1383000,
+  "activeDuration" : 1383000,
+  "steps" : 1188,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 2
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 21
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/20/18 01:54:57",
+  "startTime" : "07/20/18 01:09:14",
+  "originalStartTime" : "07/20/18 01:09:14",
+  "originalDuration" : 1383000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15689115523,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 107,
+  "calories" : 101,
+  "duration" : 1229000,
+  "activeDuration" : 1229000,
+  "steps" : 1409,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 1
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 19
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/22/18 00:58:09",
+  "startTime" : "07/22/18 00:15:30",
+  "originalStartTime" : "07/22/18 00:15:30",
+  "originalDuration" : 1229000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15703467766,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 25,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 90,
+  "calories" : 195,
+  "duration" : 2458000,
+  "activeDuration" : 2458000,
+  "steps" : 3176,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 34
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 7
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/22/18 21:02:24",
+  "startTime" : "07/22/18 19:06:10",
+  "originalStartTime" : "07/22/18 19:06:10",
+  "originalDuration" : 2458000,
+  "elevationGain" : 311.332021,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15722088831,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 64,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 128,
+  "calories" : 465,
+  "duration" : 4037000,
+  "activeDuration" : 4036000,
+  "steps" : 6828,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 52
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 15
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/24/18 01:00:21",
+  "startTime" : "07/23/18 23:37:41",
+  "originalStartTime" : "07/23/18 23:37:41",
+  "originalDuration" : 4037000,
+  "elevationGain" : 235.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15778097528,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 28,
+    "name" : "very"
+  }],
+  "calories" : 242,
+  "duration" : 2454000,
+  "activeDuration" : 2454000,
+  "steps" : 3623,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "07/26/18 01:25:09",
+  "startTime" : "07/26/18 00:31:45",
+  "originalStartTime" : "07/26/18 00:31:45",
+  "originalDuration" : 2454000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15797421998,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 107,
+  "calories" : 139,
+  "duration" : 1690000,
+  "activeDuration" : 1690000,
+  "steps" : 2111,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 1
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 27
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/27/18 01:51:03",
+  "startTime" : "07/27/18 01:08:10",
+  "originalStartTime" : "07/27/18 01:08:10",
+  "originalDuration" : 1690000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15811633083,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 67,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 995,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 7
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/27/18 19:28:34",
+  "startTime" : "07/27/18 18:59:07",
+  "originalStartTime" : "07/27/18 18:59:07",
+  "originalDuration" : 922000,
+  "elevationGain" : 4.832677,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15972905925,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 317,
+    "name" : "sedentary"
+  },{
+    "minutes" : 78,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 90,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 122,
+  "calories" : 2744,
+  "duration" : 29651000,
+  "activeDuration" : 29650000,
+  "steps" : 25446,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 24
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 376
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 85
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 9
+  }],
+  "lastModified" : "08/05/18 03:28:13",
+  "startTime" : "07/28/18 13:45:33",
+  "originalStartTime" : "07/28/18 13:45:33",
+  "originalDuration" : 29651000,
+  "elevationGain" : 3522.998693,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15983773298,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 108,
+  "calories" : 80,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1187,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 16
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/05/18 03:28:16",
+  "startTime" : "08/04/18 00:33:12",
+  "originalStartTime" : "08/04/18 00:33:12",
+  "originalDuration" : 973000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15983773299,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 20,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 82,
+  "calories" : 274,
+  "duration" : 1689000,
+  "activeDuration" : 1689000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 26
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 3
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/05/18 03:28:16",
+  "startTime" : "08/04/18 13:04:59",
+  "originalStartTime" : "08/04/18 13:04:59",
+  "originalDuration" : 1689000,
+  "elevationGain" : 1241.332023,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15972905926,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 5,
+    "name" : "sedentary"
+  },{
+    "minutes" : 22,
+    "name" : "lightly"
+  },{
+    "minutes" : 32,
+    "name" : "fairly"
+  },{
+    "minutes" : 146,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 121,
+  "calories" : 1275,
+  "duration" : 12534000,
+  "activeDuration" : 12308000,
+  "steps" : 15198,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 162
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 33
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/05/18 03:28:13",
+  "startTime" : "08/04/18 13:33:42",
+  "originalStartTime" : "08/04/18 13:33:42",
+  "originalDuration" : 12534000,
+  "elevationGain" : 2121.000659,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 15983773302,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 169,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 20
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 14
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/05/18 03:28:16",
+  "startTime" : "08/04/18 17:01:21",
+  "originalStartTime" : "08/04/18 17:01:21",
+  "originalDuration" : 2048000,
+  "elevationGain" : 140.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16026608899,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 106,
+  "calories" : 116,
+  "duration" : 1434000,
+  "activeDuration" : 1434000,
+  "steps" : 1417,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 3
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 21
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/07/18 00:52:17",
+  "startTime" : "08/07/18 00:04:42",
+  "originalStartTime" : "08/07/18 00:04:42",
+  "originalDuration" : 1434000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16045397254,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 112,
+  "calories" : 122,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 1411,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 1
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 22
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/08/18 00:21:27",
+  "startTime" : "08/07/18 23:41:14",
+  "originalStartTime" : "08/07/18 23:41:14",
+  "originalDuration" : 1382000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16101417713,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 90,
+  "calories" : 173,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 3133,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 23
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 7
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/10/18 14:20:10",
+  "startTime" : "08/10/18 13:29:00",
+  "originalStartTime" : "08/10/18 13:29:00",
+  "originalDuration" : 1792000,
+  "elevationGain" : 90.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16107724358,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 4,
+    "name" : "sedentary"
+  },{
+    "minutes" : 38,
+    "name" : "lightly"
+  },{
+    "minutes" : 44,
+    "name" : "fairly"
+  },{
+    "minutes" : 324,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 123,
+  "calories" : 2773,
+  "duration" : 24622000,
+  "activeDuration" : 24622000,
+  "steps" : 33182,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 25
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 284
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 101
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/11/18 19:17:40",
+  "startTime" : "08/11/18 12:16:36",
+  "originalStartTime" : "08/11/18 12:16:36",
+  "originalDuration" : 24622000,
+  "elevationGain" : 3640.000006,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16231391817,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 25,
+    "name" : "fairly"
+  },{
+    "minutes" : 28,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 86,
+  "calories" : 335,
+  "duration" : 3585000,
+  "activeDuration" : 3585000,
+  "steps" : 6273,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 54
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 6
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/16/18 13:02:53",
+  "startTime" : "08/16/18 11:54:19",
+  "originalStartTime" : "08/16/18 11:54:19",
+  "originalDuration" : 3585000,
+  "elevationGain" : 250.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16255096718,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 24,
+    "name" : "fairly"
+  },{
+    "minutes" : 30,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 85,
+  "calories" : 340,
+  "duration" : 3583000,
+  "activeDuration" : 3583000,
+  "steps" : 6380,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 54
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 5
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/17/18 13:04:44",
+  "startTime" : "08/17/18 11:59:02",
+  "originalStartTime" : "08/17/18 11:59:02",
+  "originalDuration" : 3583000,
+  "elevationGain" : 240.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16260150051,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 18,
+    "name" : "lightly"
+  },{
+    "minutes" : 58,
+    "name" : "fairly"
+  },{
+    "minutes" : 103,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 115,
+  "calories" : 1083,
+  "duration" : 10801000,
+  "activeDuration" : 10801000,
+  "steps" : 15646,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 164
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 6
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/18/18 15:45:31",
+  "startTime" : "08/18/18 12:32:47",
+  "originalStartTime" : "08/18/18 12:32:47",
+  "originalDuration" : 10801000,
+  "elevationGain" : 1645.000003,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16297883923,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 17,
+    "name" : "lightly"
+  },{
+    "minutes" : 24,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 91,
+  "calories" : 228,
+  "duration" : 2919000,
+  "activeDuration" : 2919000,
+  "steps" : 3853,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 37
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 11
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/19/18 19:37:34",
+  "startTime" : "08/19/18 18:45:14",
+  "originalStartTime" : "08/19/18 18:45:14",
+  "originalDuration" : 2919000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16345700099,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 28,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 82,
+  "calories" : 275,
+  "duration" : 2866000,
+  "activeDuration" : 2866000,
+  "steps" : 5271,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 44
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 3
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/21/18 22:16:55",
+  "startTime" : "08/21/18 21:23:08",
+  "originalStartTime" : "08/21/18 21:23:08",
+  "originalDuration" : 2866000,
+  "elevationGain" : 130.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16414643853,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 22,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 86,
+  "calories" : 121,
+  "duration" : 1894000,
+  "activeDuration" : 1894000,
+  "steps" : 1702,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 30
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 1
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/25/18 00:06:55",
+  "startTime" : "08/24/18 23:21:21",
+  "originalStartTime" : "08/24/18 23:21:21",
+  "originalDuration" : 1894000,
+  "elevationGain" : 30.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16415723426,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 14,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 92,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1285,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 11
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 10
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/25/18 01:23:19",
+  "startTime" : "08/25/18 00:50:05",
+  "originalStartTime" : "08/25/18 00:50:05",
+  "originalDuration" : 1280000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16409661636,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 21,
+    "name" : "lightly"
+  },{
+    "minutes" : 109,
+    "name" : "fairly"
+  },{
+    "minutes" : 97,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 114,
+  "calories" : 1331,
+  "duration" : 13736000,
+  "activeDuration" : 13736000,
+  "steps" : 21105,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 7
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 218
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 4
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "08/25/18 17:43:47",
+  "startTime" : "08/25/18 13:11:40",
+  "originalStartTime" : "08/25/18 13:11:40",
+  "originalDuration" : 13736000,
+  "elevationGain" : 1700.000003,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16564244321,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 9,
+    "name" : "sedentary"
+  },{
+    "minutes" : 18,
+    "name" : "lightly"
+  },{
+    "minutes" : 31,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 354,
+  "duration" : 4557000,
+  "activeDuration" : 4557000,
+  "steps" : 5935,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 27
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 49
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "09/01/18 02:31:36",
+  "startTime" : "09/01/18 00:58:15",
+  "originalStartTime" : "09/01/18 00:58:15",
+  "originalDuration" : 4557000,
+  "elevationGain" : 160.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16569050675,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 53,
+    "name" : "lightly"
+  },{
+    "minutes" : 93,
+    "name" : "fairly"
+  },{
+    "minutes" : 80,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 114,
+  "calories" : 1198,
+  "duration" : 13607000,
+  "activeDuration" : 13607000,
+  "steps" : 16437,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 9
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 215
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 3
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "09/01/18 17:10:18",
+  "startTime" : "09/01/18 13:06:00",
+  "originalStartTime" : "09/01/18 13:06:00",
+  "originalDuration" : 13607000,
+  "elevationGain" : 1398.999346,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16617178025,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 7,
+    "name" : "sedentary"
+  },{
+    "minutes" : 22,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 86,
+  "calories" : 101,
+  "duration" : 1793000,
+  "activeDuration" : 1793000,
+  "steps" : 1335,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 27
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 3
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "09/03/18 21:35:25",
+  "startTime" : "09/03/18 20:50:23",
+  "originalStartTime" : "09/03/18 20:50:23",
+  "originalDuration" : 1793000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16719253112,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 20,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 96,
+  "calories" : 85,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1144,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 13
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "09/08/18 18:08:41",
+  "startTime" : "09/08/18 17:32:02",
+  "originalStartTime" : "09/08/18 17:32:02",
+  "originalDuration" : 1280000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 16742589261,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 29,
+    "name" : "fairly"
+  },{
+    "minutes" : 23,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 95,
+  "calories" : 306,
+  "duration" : 3329000,
+  "activeDuration" : 3329000,
+  "steps" : 5692,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 35
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 21
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "09/10/18 00:49:22",
+  "startTime" : "09/09/18 23:35:59",
+  "originalStartTime" : "09/09/18 23:35:59",
+  "originalDuration" : 3329000,
+  "elevationGain" : 160.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17247537103,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 106,
+  "duration" : 1433000,
+  "activeDuration" : 1433000,
+  "steps" : 1413,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 7
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 16
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/03/18 16:13:53",
+  "startTime" : "10/01/18 23:44:51",
+  "originalStartTime" : "10/01/18 23:44:51",
+  "originalDuration" : 1433000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17258608377,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 93,
+  "calories" : 83,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1323,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 9
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/04/18 03:59:56",
+  "startTime" : "10/03/18 17:32:01",
+  "originalStartTime" : "10/03/18 17:32:01",
+  "originalDuration" : 1024000,
+  "elevationGain" : 30.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17480196298,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 18,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 74,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "steps" : 825,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/14/18 19:29:27",
+  "startTime" : "10/10/18 01:32:32",
+  "originalStartTime" : "10/10/18 01:32:32",
+  "originalDuration" : 1075000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17480196301,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 22,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 126,
+  "duration" : 1741000,
+  "activeDuration" : 1741000,
+  "steps" : 1433,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 6
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 23
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/14/18 19:29:27",
+  "startTime" : "10/10/18 02:45:03",
+  "originalStartTime" : "10/10/18 02:45:03",
+  "originalDuration" : 1741000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17480196306,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 106,
+  "calories" : 90,
+  "duration" : 1177000,
+  "activeDuration" : 1177000,
+  "steps" : 1269,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 3
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 17
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/14/18 19:29:27",
+  "startTime" : "10/10/18 21:23:47",
+  "originalStartTime" : "10/10/18 21:23:47",
+  "originalDuration" : 1177000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17507985643,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 16,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 91,
+  "calories" : 66,
+  "duration" : 1074000,
+  "activeDuration" : 1074000,
+  "steps" : 835,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 14
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 4
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/16/18 00:17:40",
+  "startTime" : "10/15/18 23:56:00",
+  "originalStartTime" : "10/15/18 23:56:00",
+  "originalDuration" : 1074000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17705003810,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 108,
+  "calories" : 107,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1526,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 3
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 18
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/25/18 00:18:14",
+  "startTime" : "10/24/18 23:32:38",
+  "originalStartTime" : "10/24/18 23:32:38",
+  "originalDuration" : 1280000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17759544693,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 16,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 95,
+  "calories" : 72,
+  "duration" : 1023000,
+  "activeDuration" : 1023000,
+  "steps" : 980,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 11
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 6
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "10/27/18 16:44:29",
+  "startTime" : "10/27/18 16:00:49",
+  "originalStartTime" : "10/27/18 16:00:49",
+  "originalDuration" : 1023000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17879092732,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 17,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 95,
+  "calories" : 84,
+  "duration" : 1076000,
+  "activeDuration" : 1076000,
+  "steps" : 1363,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/02/18 20:55:28",
+  "startTime" : "11/02/18 20:30:32",
+  "originalStartTime" : "11/02/18 20:30:32",
+  "originalDuration" : 1076000,
+  "elevationGain" : 10.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17892677841,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 32,
+    "name" : "fairly"
+  },{
+    "minutes" : 32,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 93,
+  "calories" : 411,
+  "duration" : 4403000,
+  "activeDuration" : 4403000,
+  "steps" : 7419,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 51
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 22
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/03/18 17:13:53",
+  "startTime" : "11/03/18 15:49:22",
+  "originalStartTime" : "11/03/18 15:49:22",
+  "originalDuration" : 4403000,
+  "elevationGain" : 240.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17994214286,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 123,
+  "calories" : 50,
+  "duration" : 492000,
+  "activeDuration" : 492000,
+  "steps" : 341,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 9
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/08/18 20:19:22",
+  "startTime" : "11/08/18 19:56:56",
+  "originalStartTime" : "11/08/18 19:56:56",
+  "originalDuration" : 492000,
+  "elevationGain" : 18.999344,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18110992310,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 3,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 176,
+  "duration" : 2304000,
+  "activeDuration" : 2304000,
+  "steps" : 2870,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 24
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 14
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/15/18 00:42:13",
+  "startTime" : "11/12/18 20:34:19",
+  "originalStartTime" : "11/12/18 20:34:19",
+  "originalDuration" : 2304000,
+  "elevationGain" : 230.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18110992315,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 78,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1283,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 8
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/15/18 00:42:14",
+  "startTime" : "11/14/18 20:17:15",
+  "originalStartTime" : "11/14/18 20:17:15",
+  "originalDuration" : 973000,
+  "elevationGain" : 20.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18106154528,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 131,
+  "calories" : 132,
+  "duration" : 1261000,
+  "activeDuration" : 1260000,
+  "steps" : 253,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 2
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 6
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 13
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/15/18 00:42:10",
+  "startTime" : "11/14/18 23:47:36",
+  "originalStartTime" : "11/14/18 23:47:36",
+  "originalDuration" : 1261000,
+  "elevationGain" : 13.999344,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18120172452,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 102,
+  "duration" : 1229000,
+  "activeDuration" : 1229000,
+  "steps" : 1613,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 9
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 12
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/15/18 15:53:36",
+  "startTime" : "11/15/18 15:25:00",
+  "originalStartTime" : "11/15/18 15:25:00",
+  "originalDuration" : 1229000,
+  "elevationGain" : 20.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18183380678,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 108,
+  "calories" : 90,
+  "duration" : 1177000,
+  "activeDuration" : 1177000,
+  "steps" : 917,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 2
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 18
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/18/18 17:58:34",
+  "startTime" : "11/18/18 17:08:43",
+  "originalStartTime" : "11/18/18 17:08:43",
+  "originalDuration" : 1177000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18244054919,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 20,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 144,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 2041,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 20
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/21/18 21:00:41",
+  "startTime" : "11/21/18 20:24:35",
+  "originalStartTime" : "11/21/18 20:24:35",
+  "originalDuration" : 1946000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18255959213,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 148,
+  "duration" : 1841000,
+  "activeDuration" : 1841000,
+  "steps" : 2338,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 8
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 23
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/22/18 15:43:35",
+  "startTime" : "11/22/18 14:59:54",
+  "originalStartTime" : "11/22/18 14:59:54",
+  "originalDuration" : 1841000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18258694877,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 80,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 928,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 2
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 16
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/22/18 19:05:18",
+  "startTime" : "11/22/18 18:28:58",
+  "originalStartTime" : "11/22/18 18:28:58",
+  "originalDuration" : 1024000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18274251424,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 28,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 95,
+  "calories" : 175,
+  "duration" : 2458000,
+  "activeDuration" : 2458000,
+  "steps" : 2616,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 27
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 14
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/23/18 20:42:06",
+  "startTime" : "11/23/18 19:35:58",
+  "originalStartTime" : "11/23/18 19:35:58",
+  "originalDuration" : 2458000,
+  "elevationGain" : 10.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18323534721,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 92,
+  "calories" : 117,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 1909,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 17
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 6
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "11/27/18 00:04:02",
+  "startTime" : "11/26/18 23:31:56",
+  "originalStartTime" : "11/26/18 23:31:56",
+  "originalDuration" : 1382000,
+  "elevationGain" : 60.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18422118775,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 130,
+  "duration" : 1587000,
+  "activeDuration" : 1587000,
+  "steps" : 1717,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 4
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 22
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/01/18 20:44:35",
+  "startTime" : "12/01/18 20:04:12",
+  "originalStartTime" : "12/01/18 20:04:12",
+  "originalDuration" : 1587000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18437467824,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 81,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 1133,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 3
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/02/18 22:58:21",
+  "startTime" : "12/02/18 22:40:48",
+  "originalStartTime" : "12/02/18 22:40:48",
+  "originalDuration" : 922000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18528531699,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 92,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1598,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 8
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 9
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/06/18 23:58:54",
+  "startTime" : "12/06/18 23:29:28",
+  "originalStartTime" : "12/06/18 23:29:28",
+  "originalDuration" : 1024000,
+  "elevationGain" : 60.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18574711566,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 155,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 2540,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 7
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 25
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/10/18 02:01:13",
+  "startTime" : "12/09/18 23:17:08",
+  "originalStartTime" : "12/09/18 23:17:08",
+  "originalDuration" : 1946000,
+  "elevationGain" : 20.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18593076628,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 27,
+    "name" : "fairly"
+  },{
+    "minutes" : 24,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 91,
+  "calories" : 328,
+  "duration" : 3789000,
+  "activeDuration" : 3789000,
+  "steps" : 5740,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 49
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 14
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/11/18 03:13:41",
+  "startTime" : "12/10/18 21:53:05",
+  "originalStartTime" : "12/10/18 21:53:05",
+  "originalDuration" : 3789000,
+  "elevationGain" : 50.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18593076629,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 137,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 1930,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 12
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 20
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/11/18 03:13:41",
+  "startTime" : "12/10/18 23:37:11",
+  "originalStartTime" : "12/10/18 23:37:11",
+  "originalDuration" : 1946000,
+  "elevationGain" : 10.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18631997518,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 3,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 94,
+  "calories" : 99,
+  "duration" : 1331000,
+  "activeDuration" : 1331000,
+  "steps" : 1569,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 13
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 9
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/13/18 00:07:24",
+  "startTime" : "12/11/18 23:26:33",
+  "originalStartTime" : "12/11/18 23:26:33",
+  "originalDuration" : 1331000,
+  "elevationGain" : 20.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18631997519,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 8,
+    "name" : "sedentary"
+  },{
+    "minutes" : 54,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 92,
+  "calories" : 230,
+  "duration" : 3994000,
+  "activeDuration" : 3994000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 49
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 18
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/13/18 00:07:24",
+  "startTime" : "12/12/18 00:52:44",
+  "originalStartTime" : "12/12/18 00:52:44",
+  "originalDuration" : 3994000,
+  "elevationGain" : 60.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18631997520,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 119,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 1965,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 12
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 11
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/13/18 00:07:24",
+  "startTime" : "12/12/18 01:59:18",
+  "originalStartTime" : "12/12/18 01:59:18",
+  "originalDuration" : 1382000,
+  "elevationGain" : 50.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18631997522,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 104,
+    "name" : "lightly"
+  },{
+    "minutes" : 19,
+    "name" : "fairly"
+  },{
+    "minutes" : 23,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 91,
+  "calories" : 679,
+  "duration" : 8858000,
+  "activeDuration" : 8858000,
+  "steps" : 10677,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 111
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 36
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/13/18 00:07:24",
+  "startTime" : "12/12/18 15:04:22",
+  "originalStartTime" : "12/12/18 15:04:22",
+  "originalDuration" : 8858000,
+  "elevationGain" : 110.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18631997526,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 87,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 1439,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 7
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 9
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/13/18 00:07:24",
+  "startTime" : "12/12/18 18:14:40",
+  "originalStartTime" : "12/12/18 18:14:40",
+  "originalDuration" : 921000,
+  "elevationGain" : 20.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18664764845,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 17,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 178,
+  "duration" : 2355000,
+  "activeDuration" : 2355000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 11
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 27
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/14/18 23:57:25",
+  "startTime" : "12/13/18 12:28:38",
+  "originalStartTime" : "12/13/18 12:28:38",
+  "originalDuration" : 2355000,
+  "elevationGain" : 120.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18664764846,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "calories" : 142,
+  "duration" : 1383000,
+  "activeDuration" : 1383000,
+  "steps" : 2181,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/14/18 23:57:25",
+  "startTime" : "12/13/18 19:29:19",
+  "originalStartTime" : "12/13/18 19:29:19",
+  "originalDuration" : 1383000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18678974817,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 18,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 90,
+  "calories" : 70,
+  "duration" : 1126000,
+  "activeDuration" : 1126000,
+  "steps" : 979,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 15
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 4
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/16/18 00:08:23",
+  "startTime" : "12/15/18 23:38:39",
+  "originalStartTime" : "12/15/18 23:38:39",
+  "originalDuration" : 1126000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18828250355,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 37,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 110,
+  "calories" : 218,
+  "duration" : 2867000,
+  "activeDuration" : 2867000,
+  "steps" : 2318,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 48
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/24/18 21:38:24",
+  "startTime" : "12/24/18 20:38:15",
+  "originalStartTime" : "12/24/18 20:38:15",
+  "originalDuration" : 2867000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18847865947,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 93,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1593,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 4
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "12/26/18 16:03:11",
+  "startTime" : "12/26/18 15:43:00",
+  "originalStartTime" : "12/26/18 15:43:00",
+  "originalDuration" : 1024000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18973424533,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 113,
+  "calories" : 148,
+  "duration" : 1734000,
+  "activeDuration" : 1734000,
+  "steps" : 2208,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 29
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/02/19 21:26:04",
+  "startTime" : "01/02/19 20:56:10",
+  "originalStartTime" : "01/02/19 20:56:10",
+  "originalDuration" : 1734000,
+  "elevationGain" : 63.999344,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18975328139,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 11,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 94,
+  "calories" : 71,
+  "duration" : 1535000,
+  "activeDuration" : 1535000,
+  "steps" : 149,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 16
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/02/19 22:17:53",
+  "startTime" : "01/02/19 21:37:11",
+  "originalStartTime" : "01/02/19 21:37:11",
+  "originalDuration" : 1535000,
+  "elevationGain" : 13.999344,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18974307862,
+  "activityName" : "Stationary bike, light effort (bicycling, cycling, biking) (MyFitnessPal)",
+  "activityTypeId" : 38782826,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 25,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 75,
+  "calories" : 135,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 1500000,
+  "activeDuration" : 1500000,
+  "steps" : 28,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 25
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 0
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "speed" : 0.0,
+  "lastModified" : "01/02/19 22:37:30",
+  "startTime" : "01/02/19 22:00:00",
+  "originalStartTime" : "01/02/19 22:00:00",
+  "originalDuration" : 1500000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19022397082,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 24,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 95,
+  "calories" : 162,
+  "duration" : 1844000,
+  "activeDuration" : 1844000,
+  "steps" : 3285,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 20
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 10
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/04/19 22:53:35",
+  "startTime" : "01/04/19 22:10:05",
+  "originalStartTime" : "01/04/19 22:10:05",
+  "originalDuration" : 1844000,
+  "elevationGain" : 40.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19041233808,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 11,
+    "name" : "sedentary"
+  },{
+    "minutes" : 21,
+    "name" : "lightly"
+  },{
+    "minutes" : 21,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 88,
+  "calories" : 256,
+  "duration" : 3890000,
+  "activeDuration" : 3890000,
+  "steps" : 3569,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 48
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 17
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/06/19 00:17:50",
+  "startTime" : "01/05/19 23:04:18",
+  "originalStartTime" : "01/05/19 23:04:18",
+  "originalDuration" : 3890000,
+  "elevationGain" : 40.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19091628400,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 17,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 92,
+  "calories" : 76,
+  "duration" : 1025000,
+  "activeDuration" : 1025000,
+  "steps" : 1209,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 7
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/08/19 15:57:53",
+  "startTime" : "01/08/19 15:30:45",
+  "originalStartTime" : "01/08/19 15:30:45",
+  "originalDuration" : 1025000,
+  "elevationGain" : 30.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19122924168,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 31,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 88,
+  "calories" : 300,
+  "duration" : 3073000,
+  "activeDuration" : 3073000,
+  "steps" : 5649,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 42
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/10/19 00:22:05",
+  "startTime" : "01/09/19 23:00:04",
+  "originalStartTime" : "01/09/19 23:00:04",
+  "originalDuration" : 3073000,
+  "elevationGain" : 70.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19148467521,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 19,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 94,
+  "calories" : 229,
+  "duration" : 2867000,
+  "activeDuration" : 2867000,
+  "steps" : 3779,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 24
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 24
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/10/19 23:07:11",
+  "startTime" : "01/10/19 22:11:52",
+  "originalStartTime" : "01/10/19 22:11:52",
+  "originalDuration" : 2867000,
+  "elevationGain" : 40.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19199836484,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 11,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 44,
+    "name" : "fairly"
+  },{
+    "minutes" : 130,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 121,
+  "calories" : 1164,
+  "duration" : 11714000,
+  "activeDuration" : 11710000,
+  "steps" : 14453,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 15
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 171
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 9
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/13/19 20:27:33",
+  "startTime" : "01/13/19 17:03:48",
+  "originalStartTime" : "01/13/19 17:03:48",
+  "originalDuration" : 11714000,
+  "elevationGain" : 1787.99869,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19319036854,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 93,
+  "calories" : 81,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1287,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 7
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/18/19 20:00:58",
+  "startTime" : "01/18/19 19:28:57",
+  "originalStartTime" : "01/18/19 19:28:57",
+  "originalDuration" : 973000,
+  "elevationGain" : 10.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19335140396,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 27,
+    "name" : "fairly"
+  },{
+    "minutes" : 65,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 121,
+  "calories" : 583,
+  "duration" : 5629000,
+  "activeDuration" : 5629000,
+  "steps" : 8405,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 93
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 1
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/19/19 19:01:17",
+  "startTime" : "01/19/19 17:06:46",
+  "originalStartTime" : "01/19/19 17:06:46",
+  "originalDuration" : 5629000,
+  "elevationGain" : 872.998689,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19507250419,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 84,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "steps" : 1236,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 5
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "01/27/19 22:00:39",
+  "startTime" : "01/27/19 21:24:41",
+  "originalStartTime" : "01/27/19 21:24:41",
+  "originalDuration" : 1075000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19768523018,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 5,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 92,
+  "calories" : 129,
+  "duration" : 2047000,
+  "activeDuration" : 2047000,
+  "steps" : 1785,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 21
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/09/19 01:13:52",
+  "startTime" : "02/09/19 00:26:19",
+  "originalStartTime" : "02/09/19 00:26:19",
+  "originalDuration" : 2047000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19874436527,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 15,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 93,
+  "calories" : 64,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 864,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 6
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/14/19 02:39:12",
+  "startTime" : "02/14/19 02:17:42",
+  "originalStartTime" : "02/14/19 02:17:42",
+  "originalDuration" : 922000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19921016588,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 90,
+  "calories" : 78,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1304,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 12
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 5
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/15/19 21:45:59",
+  "startTime" : "02/15/19 21:14:48",
+  "originalStartTime" : "02/15/19 21:14:48",
+  "originalDuration" : 973000,
+  "elevationGain" : 10.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19942773054,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 96,
+  "calories" : 74,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1198,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 10
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 7
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/16/19 23:31:13",
+  "startTime" : "02/16/19 22:55:56",
+  "originalStartTime" : "02/16/19 22:55:56",
+  "originalDuration" : 1024000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 19982308837,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 26,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 88,
+  "calories" : 271,
+  "duration" : 2766000,
+  "activeDuration" : 2766000,
+  "steps" : 5267,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 41
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 5
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/18/19 22:15:38",
+  "startTime" : "02/18/19 20:57:20",
+  "originalStartTime" : "02/18/19 20:57:20",
+  "originalDuration" : 2766000,
+  "elevationGain" : 130.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20022662403,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 15,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 66,
+  "duration" : 1076000,
+  "activeDuration" : 1076000,
+  "steps" : 848,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 9
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 9
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/20/19 16:14:28",
+  "startTime" : "02/20/19 02:51:55",
+  "originalStartTime" : "02/20/19 02:51:55",
+  "originalDuration" : 1076000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20081646862,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 71,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 1217,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 9
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 6
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/22/19 22:09:21",
+  "startTime" : "02/22/19 21:40:02",
+  "originalStartTime" : "02/22/19 21:40:02",
+  "originalDuration" : 922000,
+  "elevationGain" : 20.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20099376324,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 35,
+    "name" : "fairly"
+  },{
+    "minutes" : 28,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 377,
+  "duration" : 4199000,
+  "activeDuration" : 4199000,
+  "steps" : 7193,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 29
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 41
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "02/23/19 19:39:48",
+  "startTime" : "02/23/19 18:18:14",
+  "originalStartTime" : "02/23/19 18:18:14",
+  "originalDuration" : 4199000,
+  "elevationGain" : 220.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20240140970,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 85,
+  "calories" : 81,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 1373,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 11
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 4
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/01/19 21:14:10",
+  "startTime" : "03/01/19 20:54:32",
+  "originalStartTime" : "03/01/19 20:54:32",
+  "originalDuration" : 921000,
+  "elevationGain" : 30.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20416775715,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 75,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1004,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 4
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/09/19 21:41:11",
+  "startTime" : "03/09/19 21:04:50",
+  "originalStartTime" : "03/09/19 21:04:50",
+  "originalDuration" : 1024000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20469007135,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 110,
+  "calories" : 86,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1371,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 17
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/12/19 01:30:04",
+  "startTime" : "03/12/19 01:06:21",
+  "originalStartTime" : "03/12/19 01:06:21",
+  "originalDuration" : 1024000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20494608214,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 96,
+  "calories" : 105,
+  "duration" : 1485000,
+  "activeDuration" : 1485000,
+  "steps" : 1706,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 11
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 13
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/13/19 00:56:27",
+  "startTime" : "03/13/19 00:26:41",
+  "originalStartTime" : "03/13/19 00:26:41",
+  "originalDuration" : 1485000,
+  "elevationGain" : 40.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20535767194,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 43,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 129,
+  "calories" : 318,
+  "duration" : 2981000,
+  "activeDuration" : 2981000,
+  "steps" : 5249,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 47
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 3
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/14/19 19:26:45",
+  "startTime" : "03/14/19 18:28:46",
+  "originalStartTime" : "03/14/19 18:28:46",
+  "originalDuration" : 2981000,
+  "elevationGain" : 92.998688,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20558073978,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 37,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 129,
+  "calories" : 250,
+  "duration" : 2277000,
+  "activeDuration" : 2276000,
+  "steps" : 4320,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 32
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 6
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/15/19 20:44:00",
+  "startTime" : "03/15/19 19:53:55",
+  "originalStartTime" : "03/15/19 19:53:55",
+  "originalDuration" : 2277000,
+  "elevationGain" : 81.000656,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20583042854,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 21,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 141,
+  "duration" : 2099000,
+  "activeDuration" : 2099000,
+  "steps" : 1543,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 6
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 29
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/16/19 19:16:07",
+  "startTime" : "03/16/19 18:36:52",
+  "originalStartTime" : "03/16/19 18:36:52",
+  "originalDuration" : 2099000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 20624099335,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 121,
+  "calories" : 145,
+  "duration" : 1557000,
+  "activeDuration" : 1557000,
+  "steps" : 2104,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "117865532",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["HEARTRATE","CALORIES","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 98,
+    "minutes" : 0
+  },{
+    "name" : "Fat Burn",
+    "min" : 98,
+    "max" : 137,
+    "minutes" : 26
+  },{
+    "name" : "Cardio",
+    "min" : 137,
+    "max" : 167,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 167,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "03/18/19 20:14:54",
+  "startTime" : "03/18/19 19:39:07",
+  "originalStartTime" : "03/18/19 19:39:07",
+  "originalDuration" : 1557000,
+  "elevationGain" : 67.998688,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+}]
