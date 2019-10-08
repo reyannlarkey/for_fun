@@ -16,10 +16,12 @@ pd.set_option('display.max_columns', 10)
 files = [i for i in os.listdir('../Data/ReyannLarkey/user-site-export/') if i.startswith('altitude')]
 
 for file in files:
-#
-    with open(f'../Data/ReyannLarkey/user-site-export/{file}', "r") as read_file:
-        data = json.load(read_file)
+    with  open(f'../Data/ReyannLarkey/user-site-export/{file}') as openfile:
+        jsondata = json.load(openfile)
+        df = pd.DataFrame(jsondata)
 
-    for i in data:
-        plt.plot(pd.to_datetime(i['dateTime'], infer_datetime_format=True), i['value'], 'b.')
+    df.dateTime = pd.to_datetime(df.dateTime, infer_datetime_format=True)
+
+    plt.plot(df.dateTime, df.value)
 plt.show()
+# plt.show()
