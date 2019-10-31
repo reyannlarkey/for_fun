@@ -1,7 +1,8 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
+from pandas.plotting import register_matplotlib_converters
+register_matplotlib_converters()
 plt.style.use('bmh')
 pd.options.mode.chained_assignment = None
 desired_width = 320

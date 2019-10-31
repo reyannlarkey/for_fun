@@ -12,49 +12,62 @@ pd.set_option('display.max_columns', 10)
 
 
 
-for year in [2014, 2015, 2016, 2017, 2018, 2019]:
-    df = pd.read_csv(f"../Data/pbp-{year}.csv")
+
+colors = ['blue', 'red']
+for i, year in enumerate([2019]):
+    df = pd.read_csv(f"../Data/pbp/pbp-{year}.csv")
     off_teams = df.groupby("OffenseTeam")
+    print(df.columns.values)
+    atl = off_teams.get_group("ATL")
+    kc = off_teams.get_group("KC")
 
-    
-    for team, data in off_teams:
+    fig, axes = plt.subplots(1, 2, sharex=True, sharey=True)
+    for j, team in enumerate([kc, atl]):
 
-        if team == "KC" or team == 'ATL':
-            #
-            # atl_offense = off_teams.get_group("KC")
-            #
-            # print(atl_offense.columns)
 
-            rushes = data[(data.IsPass == 1) | (data.PlayType == "SACK")]
-            rushes = rushes[(rushes.IsIncomplete == 0)]
+        down2_plays = team[team.Down == 2]
+        plays = down2_plays.groupby("PlayType")
 
-            print(rushes.Yards.mean())
-            print(rushes.Yards.sum())
-            plt.scatter(year, rushes.Yards.mean())
+        for name, play in plays:
+            if name == 'PASS':
+                quarters = play.groupby("Quarter")
+                for quarter, data in quarters:
 
+                    axes[j].scatter(data.ToGo, data.Yards, label = f"{name}, ({data.shape[0]}), ({quarter})")
+
+        axes[j].plot([0,30], [0, 30], 'k-')
+
+        axes[j].set_title(team.OffenseTeam.values[0])
+        axes[j].set_ylabel("Yards Gained")
+        axes[j].set_xlabel("Yards To Go")
+
+        axes[j].legend()
+    plt.suptitle(f"Down {down2_plays.Down.values[0]}")
     plt.show()
-    #         p, bins = np.histogram(rushes.Yards, bins = np.arange(-10,100, 1))
-    #         plt.step(bins[0:-1], p, where = 'post', label = f'{team}: AVG = {round(rushes.Yards.mean(),2)} TOT = {round(rushes.Yards.sum(),2)}')
-    # plt.legend()
-    # plt.title(year)
-    # plt.show()
-
-# print(rush.ToGo - rush.Down)
 
 
-# plt.title(f'{name}: {rush.shape[0]} Times')
-plt.show()
 
-# rush_types = rushes.groupby('RushDirection')
+#     for team, data in off_teams:
 #
-# for name, rush in rush_types:
-#     print(name)
+#         if team == "ATL":
 #
-#     p, bins = np.histogram(rush.Yards, bins = np.arange(0,50, 1))
+#             #
+#             # atl_offense = off_teams.get_group("KC")
+#             #
+#             # print(atl_offense.columns)
 #
-#     print(rush.ToGo - rush.Down)
+#             passes = data[(data.IsPass == 1) | (data.PlayType == "SACK")]
+#             passes = passes[(passes.IsIncomplete == 0)]
+#
+#             prob = passes.PassType.value_counts()
+#             # threshold = 0.02
+#             # mask = prob > threshold
+#             # tail_prob = prob.loc[~mask].sum()
+#             # prob = prob.loc[mask]
+#             # prob['other'] = tail_prob
 #
 #
-#     plt.step(bins[0:-1], p, where = 'post')
-#     plt.title(f'{name}: {rush.shape[0]} Times')
-#     plt.show()
+#             prob.plot(kind='bar', color = 'None', edgecolor = colors[i], linewidth = 4, label = year)
+#             plt.xticks(rotation=25)
+# plt.legend()
+# plt.show()
