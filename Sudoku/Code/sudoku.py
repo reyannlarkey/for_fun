@@ -3,7 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('sudoku.csv', nrows = 1000000)
+df = pd.read_csv('../Data/sudoku.csv', nrows = 100000)
+
 
 
 for number in range(1,10):
@@ -48,5 +49,5 @@ for number in range(1,10):
     cbar.ax.set_yticklabels([f'Pre-Filled Less Often\n ({round(np.min(base),2)} %)', f'Pre-Filled More Often\n ({round(np.max(base),2)} %)'])
     # plt.gca().invert_xaxis()
     plt.suptitle(f"Most Common Pre-Filled Squares\n{number}'s\n {df.shape[0]} Sudoku Games")
-    plt.savefig(f"{number}_filled.png")
-    plt.close()
+    # plt.savefig(f"{number}_filled.png")
+    plt.show()
