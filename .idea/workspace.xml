@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced8ebcb-94dd-41a0-8e04-3e4321377ead" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NFL/Code/nfl_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/NFL/Code/nfl_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sudoku/Code/sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sudoku/Code/sudoku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Titanic/CODE/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic/CODE/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Kaggle$sudoku_solver.coverage" NAME="sudoku_solver Coverage Results" MODIFIED="1580928459845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sudoku/Code" />
+    <SUITE FILE_PATH="coverage/Kaggle$sudoku_solver.coverage" NAME="sudoku_solver Coverage Results" MODIFIED="1580930252430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sudoku/Code" />
     <SUITE FILE_PATH="coverage/Kaggle$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1569606397421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Kaggle$plotly_fundamentals.coverage" NAME="plotly_fundamentals Coverage Results" MODIFIED="1571409703666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plotly_Tutorial/CODE" />
     <SUITE FILE_PATH="coverage/Kaggle$happiness.coverage" NAME="happiness Coverage Results" MODIFIED="1570465329355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Happiness/Code" />
@@ -58,13 +54,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="py" value="15450" />
+          <entry key="py" value="16142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="15450" />
+          <entry key="Python" value="16142" />
         </counts>
       </usages-collector>
     </session>
@@ -99,14 +95,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="113" selection-start-line="113" selection-end-line="113" />
+            <state relative-caret-position="314">
+              <caret line="140" column="50" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#909#1294#1" />
-                <marker date="1580928561799" expanded="true" signature="679:1137" ph="..." />
-                <marker date="1580928561799" expanded="true" signature="1487:3747" ph="..." />
-                <marker date="1580928561799" expanded="true" signature="1620:2040" ph="..." />
+                <marker date="1580930252422" expanded="true" signature="679:1137" ph="..." />
+                <marker date="1580930252422" expanded="true" signature="1487:4761" ph="..." />
+                <marker date="1580930252422" expanded="true" signature="1620:2040" ph="..." />
               </folding>
             </state>
           </provider>
@@ -398,14 +394,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1680" height="1025" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10954712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="1680" y="41" width="1280" height="996" id="Run" order="2" weight="0.19777778" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" x="1680" y="41" width="1280" height="996" id="Run" order="2" visible="true" weight="0.40555555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -419,7 +416,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" auto_hide="true" x="1850" y="211" width="539" height="604" id="SciView" order="3" type="FLOATING" visible="true" weight="0.32986537" />
+      <window_info anchor="right" auto_hide="true" x="1721" y="214" width="902" height="604" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.32986537" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -429,17 +426,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <condition expression="number==3" language="Python" />
-          <url>file://$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py</url>
-          <line>113</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>count ==17</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number==3</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Happiness/Sudoku/sudoku.csv" />
@@ -613,14 +612,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        <state relative-caret-position="314">
+          <caret line="140" column="50" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <element signature="e#909#1294#1" />
-            <marker date="1580928561799" expanded="true" signature="679:1137" ph="..." />
-            <marker date="1580928561799" expanded="true" signature="1487:3747" ph="..." />
-            <marker date="1580928561799" expanded="true" signature="1620:2040" ph="..." />
+            <marker date="1580930252422" expanded="true" signature="679:1137" ph="..." />
+            <marker date="1580930252422" expanded="true" signature="1487:4761" ph="..." />
+            <marker date="1580930252422" expanded="true" signature="1620:2040" ph="..." />
           </folding>
         </state>
       </provider>
