@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced8ebcb-94dd-41a0-8e04-3e4321377ead" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sudoku/Code/sudoku_solver2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +12,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Kaggle$sudoku_solver.coverage" NAME="sudoku_solver Coverage Results" MODIFIED="1580930252430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sudoku/Code" />
+    <SUITE FILE_PATH="coverage/Kaggle$sudoku_solver.coverage" NAME="sudoku_solver Coverage Results" MODIFIED="1581014157183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sudoku/Code" />
+    <SUITE FILE_PATH="coverage/Kaggle$sudoku_solver2.coverage" NAME="sudoku_solver2 Coverage Results" MODIFIED="1581018024556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sudoku/Code" />
     <SUITE FILE_PATH="coverage/Kaggle$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1569606397421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Kaggle$plotly_fundamentals.coverage" NAME="plotly_fundamentals Coverage Results" MODIFIED="1571409703666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Plotly_Tutorial/CODE" />
     <SUITE FILE_PATH="coverage/Kaggle$happiness.coverage" NAME="happiness Coverage Results" MODIFIED="1570465329355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Happiness/Code" />
@@ -26,11 +28,11 @@
     <session id="301811627">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="10" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,7 +41,7 @@
           <entry key="ipynb" value="2" />
           <entry key="json" value="10" />
           <entry key="png" value="1" />
-          <entry key="py" value="15" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -48,19 +50,19 @@
           <entry key="IPNB" value="2" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="10" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="py" value="16142" />
+          <entry key="py" value="16517" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="16142" />
+          <entry key="Python" value="16517" />
         </counts>
       </usages-collector>
     </session>
@@ -70,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Titanic/CODE/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="450">
               <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -83,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="45">
               <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -92,17 +94,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="140" column="50" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
+            <state>
+              <caret selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#909#1294#1" />
-                <marker date="1580930252422" expanded="true" signature="679:1137" ph="..." />
-                <marker date="1580930252422" expanded="true" signature="1487:4761" ph="..." />
-                <marker date="1580930252422" expanded="true" signature="1620:2040" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku_solver2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="784">
+              <caret line="134" column="16" lean-forward="true" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,6 +146,7 @@
         <option value="$PROJECT_DIR$/Titanic/CODE/main.py" />
         <option value="$PROJECT_DIR$/Sudoku/Code/sudoku.py" />
         <option value="$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py" />
+        <option value="$PROJECT_DIR$/Sudoku/Code/sudoku_solver2.py" />
       </list>
     </option>
   </component>
@@ -197,6 +208,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,14 +237,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -251,29 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sudoku_solver">
-    <configuration name="fitbit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kaggle" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fitbit/Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fitbit/Code/fitbit_csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sudoku_solver2">
     <configuration name="fitbit_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Kaggle" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -362,20 +351,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sudoku_solver2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kaggle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sudoku/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku/Code/sudoku_solver2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.fitbit" />
       <item itemvalue="Python.fitbit_json" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.sudoku" />
       <item itemvalue="Python.sudoku_solver" />
+      <item itemvalue="Python.sudoku_solver2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sudoku_solver2" />
         <item itemvalue="Python.sudoku_solver" />
         <item itemvalue="Python.sudoku" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.fitbit_json" />
-        <item itemvalue="Python.fitbit" />
       </list>
     </recent_temporary>
   </component>
@@ -394,14 +405,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1680" height="1025" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10954712" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11077111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="1680" y="41" width="1280" height="996" id="Run" order="2" visible="true" weight="0.40555555" />
+      <window_info anchor="bottom" x="1680" y="41" width="1280" height="996" id="Run" order="2" weight="0.88666666" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -544,6 +554,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/DATA/test.csv">
+      <provider editor-type-id="csv-text-editor" />
       <provider selected="true" editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="true" autoColumnWidthOnOpen="false" rowLines="3">
           <column index="0" width="100" />
@@ -559,15 +570,15 @@
           <column index="10" width="100" />
         </state>
       </provider>
-      <provider editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/DATA/gender_submission.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/DATA/train.csv">
+      <provider editor-type-id="csv-text-editor" />
       <provider selected="true" editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
           <column index="0" width="100" />
@@ -584,11 +595,13 @@
           <column index="11" width="100" />
         </state>
       </provider>
-      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sudoku/Data/sudoku.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/CODE/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="450">
           <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -597,12 +610,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sudoku/Data/sudoku.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="45">
           <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -612,14 +622,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku_solver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="140" column="50" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
+        <state>
+          <caret selection-end-line="24" selection-end-column="34" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#909#1294#1" />
-            <marker date="1580930252422" expanded="true" signature="679:1137" ph="..." />
-            <marker date="1580930252422" expanded="true" signature="1487:4761" ph="..." />
-            <marker date="1580930252422" expanded="true" signature="1620:2040" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sudoku/Code/sudoku_solver2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="134" column="16" lean-forward="true" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
